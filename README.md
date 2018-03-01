@@ -4,5 +4,5 @@
 lunes
 martes
 miércoles
-8 de marzo
+Festivo 8 de marzo
 viernes
